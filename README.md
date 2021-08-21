@@ -1,6 +1,6 @@
 # Wolf Production Design and Media
 
-## WPD CodeCoop DataTable
+## CodeCoop DataTable
 Search, sort, filter and pagify data table js class
 
 #### Features

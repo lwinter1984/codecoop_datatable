@@ -9,7 +9,7 @@ class WPD_DATATABLE {
 
         // INSERT STYLESHEET INTO PAGE //
         var random = Math.random();
-        var css = 'https://cdn.jsdelivr.net/npm/lwinter1984/codecoop_datatable/wpdc_datatable_stylesheet.css';
+        var css = 'https://cdn.jsdelivr.net/gh/lwinter1984/codecoop_datatable@main/wpdc_datatable_stylesheet.css';
         document.querySelector('head').innerHTML += '<link rel="stylesheet" href="'+css+'" type="text/css"/>';
 
         this.info = {};
